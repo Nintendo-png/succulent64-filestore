@@ -1,4 +1,0 @@
-Address: 	https://succulentmastertube.yooco.org
-User name: 	admin
-Password: 	628b621434
-Actual Password: unsecurepass123
